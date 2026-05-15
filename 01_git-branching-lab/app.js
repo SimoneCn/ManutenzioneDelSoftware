@@ -1,1 +1,1 @@
-console.log('Applicazione avviata');
+console.log("Versione stabile dell'applicazione");
