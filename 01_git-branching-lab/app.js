@@ -1,1 +1,1 @@
-console.log("Versione stabile dell'applicazione");
+console.log("Sistema principale con controlli di sicurezza");
